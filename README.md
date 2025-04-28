@@ -71,7 +71,7 @@ Este projeto demonstra como aplicar técnicas de engenharia de dados, geração 
 ## 📌 Como Executar
 **Clone este repositório:**
 
-- git clone [https:](https://github.com/brunosuassuna/Analise-de-Vendas.git)
+- git clone https://github.com/brunosuassuna/Analise-de-Vendas.git
 
 - Execute em ambiente Jupyter, Google Colab ou Databricks com PySpark configurado.
 

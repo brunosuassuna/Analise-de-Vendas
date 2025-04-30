@@ -8,19 +8,21 @@ Este projeto apresenta um pipeline completo de geração, processamento e visual
 
 
 ## 📁 Estrutura do Projeto
+```bash
+├── 📄 README.md                # Documentação principal
+├── 📂 notebooks/              # Notebooks Jupyter
+│   └── 📄 vendas_dashboard.ipynb     # Notebook principal de análise
+├── 📂 src/                    # Código-fonte do projeto
+│   ├── 📄 data_processing.py         # Funções de ETL
+│   ├── 📄 visualization.py           # Código de visualizações
+│   └── 📄 utils.py                   # Funções auxiliares
+├── 📂 data/                   # Diretório de dados
+│   ├── 📂 raw/                       # Dados brutos
+│   └── 📂 processed/                # Dados tratados
+└── 📂 config/                 # Configurações do projeto
+    └── 📄 settings.json             # Parâmetros e caminhos configuráveis
+```
 
-- ├── 📄 README.md                 # Documentação principal
-- ├── 📂 notebooks/
-- │   └── 📄 vendas_dashboard.ipynb  # Notebook principal
-- ├── 📂 src/
-- │   ├── 📄 data_processing.py    # Funções de ETL
-- │   ├── 📄 visualization.py      # Código de visualizações
-- │   └── 📄 utils.py              # Funções auxiliares
-- ├── 📂 data/
-- │   ├── 📂 raw/                  # Dados brutos
-- │   └── 📂 processed/            # Dados tratados
-- └── 📂 config/
-- └── 📄 settings.json         # Configurações do projeto
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -70,8 +72,9 @@ Este projeto demonstra como aplicar técnicas de engenharia de dados, geração 
 
 ## 📌 Como Executar
 **Clone este repositório:**
-
-- git clone https://github.com/brunosuassuna/Analise-de-Vendas.git
+```bash
+git clone https://github.com/brunosuassuna/Analise-de-Vendas.git
+```
 
 - Execute em ambiente Jupyter, Google Colab ou Databricks com PySpark configurado.
 

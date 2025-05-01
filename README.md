@@ -1,13 +1,12 @@
-# 🚀 Vendas Analytics com PySpark | Pipeline Completo de Dados
+# 🚀 **Vendas Analytics com PySpark | Pipeline Completo de Dados**
 
 ![PySpark](https://img.shields.io/badge/PySpark-v3.5+-orange)
 ![Databricks](https://img.shields.io/badge/Databricks-Runtime-red)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-Este projeto apresenta um pipeline completo de geração, processamento e visualização de dados de vendas sintéticos utilizando PySpark, Pandas e Plotly. O objetivo é demonstrar a aplicação de técnicas de engenharia de dados e análise de métricas de negócio em um cenário simulado, com foco em desempenho, clareza e design profissional.
+Este projeto apresenta um pipeline completo de **geração**, **processamento** e **visualização** de dados de vendas sintéticos utilizando **PySpark**, **Pandas** e **Plotly**. O objetivo é demonstrar a aplicação de técnicas de **engenharia de dados** e análise de **métricas de negócio** em um cenário simulado, com foco em desempenho, clareza e design profissional.
 
-
-## 📁 Estrutura do Projeto
+## 📁 **Estrutura do Projeto**
 ```bash
 ├── 📄 README.md                # Documentação principal
 ├── 📂 notebooks/              # Notebooks Jupyter
@@ -62,7 +61,7 @@ Este projeto apresenta um pipeline completo de geração, processamento e visual
 
 - **Matriz de correlação:** Análise estatística entre as variáveis de negócio.
 
-**##📊 Exemplos de Insights**
+## **📊 Exemplos de Insights**
 - Aumento significativo nas vendas nos meses de novembro e dezembro, simulando sazonalidade de fim de ano.
 - Correlação positiva entre volume de vendas e número de transações.
 - Análise clara de comportamento mensal e sazonal, com suporte visual intuitivo.
@@ -81,4 +80,9 @@ git clone https://github.com/brunosuassuna/Analise-de-Vendas.git
 - Instale as bibliotecas necessárias (se não estiverem instaladas):
 
 - pip install pyspark pandas numpy plotly
+
+  ## ✉️ Contato
+- **Email:** brunosuassuna.dev@gmail.com
+- **LinkedIn:** www.linkedin.com/in/bruno-suassuna-698aa7235
+
 
